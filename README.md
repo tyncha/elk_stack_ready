@@ -146,7 +146,7 @@ ansible-playbook -i inventory main.yml -b
 │       │   │   └── main.yml
 
 
-56 directories, 52 files
+42 directories, 61 files
 
 ```
 
