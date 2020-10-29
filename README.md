@@ -1,3 +1,5 @@
+
+
 Elk_Stack
 ==========
 Introduction
@@ -64,6 +66,8 @@ ansible_system_user: ec2-user
 ```
 ansible-playbook -i inventory main.yml -b
 ```
+
+![ELK](/image/elk1.png?raw=true "Plan of ELK")
 
 ### Create your Kibana Index Pattern
    - Next you'll login to your Kibana instance and create a Kibana index pattern.
